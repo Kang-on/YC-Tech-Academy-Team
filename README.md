@@ -1,1 +1,1 @@
-Hello. We are lovely and cute girls.
+안녕하세요. 최유림과 배희진입니다.
