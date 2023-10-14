@@ -31,7 +31,7 @@ public class CommerceController {
     @DeleteMapping("/users/{userId}")
     public ResponseEntity<String> deleteUser(@PathVariable String userId) {
         // 회원탈퇴 로직 구현
-        return("temp")
+        return("temp");
     }
 
     @PutMapping("/users/{userId}")
